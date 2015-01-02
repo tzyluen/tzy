@@ -1,0 +1,6 @@
+XTerm*faceName: Inconsolata
+XTerm*faceSize: 10
+XTerm*font: 7x13
+XTerm*background: #000000
+XTerm*foreground: #DAA520
+XTerm*locale: true
